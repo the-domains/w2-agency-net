@@ -1,0 +1,14 @@
+layout_spectrum: 0.4820789
+color:
+  saturation: 0.4187779
+  brandStrength: 0.9428888
+  lightness: 0.7428147
+  brandColors:
+    - '#000000'
+    - '#CFBE9B'
+    - '#312716'
+    - '#D0A34B'
+    - '#9A9B80'
+  rhythmicContrast: 0.8037509
+typography_spectrum: 0.7885305
+name: W2-agency.net
