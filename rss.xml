@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[W2-agency.net]]></title>
         <description><![CDATA[W2-agency.net]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/w2-agency-net/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Jan 2016 12:47:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 14 Feb 2016 04:57:30 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/w2-agency-net/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Girard-Perregaux | SPOOTNIK.COM]]></title>
+            <description><![CDATA[<article><h1>Girard-Perregaux | SPOOTNIK.COM</h1><p>SPOOTNIK.COM</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3b188683b5307794c9f2268261e045bfe52c86aa.jpg"></article>]]></description>
+            <link>http://gp.spootnik.com/?from=spootnik</link>
+            <guid isPermaLink="false">a42af69b-677a-4194-88af-2eaf1d1c818f</guid>
+            <pubDate>Sun, 14 Feb 2016 04:57:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/33c2daeb-0fc3-4a7c-8161-181baa5b0d90.jpg">]]></description>
-            <link>undefinedjulien/index.html</link>
+            <link>https://thegrid.ai/w2-agency-net/julien/index.html</link>
             <guid isPermaLink="false">79b20331-3f7f-4e9e-a375-e90cd2ab43ab</guid>
             <pubDate>Mon, 11 Jan 2016 12:46:43 GMT</pubDate>
         </item>
